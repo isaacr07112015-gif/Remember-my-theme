@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* EPCC style */
+body.epcc {
+  background-color: #288163;
+  color: rgb(74, 46, 177);
+}
+
+/* Thanksgiving style */
+body.thanksgiving {
+  background-color: #5b2c06;
+  color: #ffe4b5;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
